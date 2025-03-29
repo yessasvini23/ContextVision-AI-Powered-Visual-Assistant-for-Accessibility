@@ -40,8 +40,7 @@ python contextvision.py  # For real-time scene description
 python app.py  # To launch the Gradio web interface
 
 📽️ Demo
-[
-](Insert Deployment Video Link)
+"G:\My Drive\Deployment.mp4"
 
 📌 Roadmap
 🔥 Edge Device Optimization (Jetson, Raspberry Pi 5)
